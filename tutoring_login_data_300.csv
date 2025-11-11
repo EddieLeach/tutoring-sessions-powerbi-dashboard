@@ -1,0 +1,301 @@
+StudentName,TutorName,Subject,LoginDate,SessionDuration(min)
+Student_8,Ms. Carter,Science,2025-09-01,65
+Student_28,Mr. Lee,History,2025-09-01,53
+Student_54,Mrs. Patel,Math,2025-09-01,62
+Student_36,Mr. Nguyen,Computer Science,2025-09-01,34
+Student_30,Mrs. Patel,Math,2025-09-01,78
+Student_52,Mr. Lee,History,2025-09-02,42
+Student_17,Ms. Carter,History,2025-09-02,89
+Student_37,Mrs. Patel,English,2025-09-02,70
+Student_5,Mr. Lee,Computer Science,2025-09-03,67
+Student_41,Mr. Nguyen,Computer Science,2025-09-03,28
+Student_45,Mrs. Patel,Math,2025-09-03,61
+Student_40,Mr. Nguyen,English,2025-09-03,67
+Student_49,Mrs. Patel,Computer Science,2025-09-03,42
+Student_42,Ms. Johnson,Math,2025-09-04,62
+Student_20,Ms. Johnson,Computer Science,2025-09-04,32
+Student_30,Ms. Carter,Math,2025-09-04,71
+Student_9,Mr. Nguyen,Science,2025-09-04,53
+Student_59,Ms. Johnson,Science,2025-09-04,85
+Student_29,Ms. Johnson,Math,2025-09-04,89
+Student_21,Ms. Johnson,Science,2025-09-05,36
+Student_38,Mr. Lee,Math,2025-09-05,27
+Student_51,Mr. Nguyen,Computer Science,2025-09-05,69
+Student_40,Ms. Johnson,Math,2025-09-05,88
+Student_59,Mrs. Patel,Science,2025-09-05,27
+Student_45,Mr. Lee,Science,2025-09-05,73
+Student_13,Ms. Carter,History,2025-09-06,47
+Student_14,Mrs. Patel,Math,2025-09-06,68
+Student_9,Ms. Johnson,History,2025-09-06,26
+Student_38,Ms. Johnson,Math,2025-09-06,74
+Student_1,Mr. Nguyen,History,2025-09-07,75
+Student_38,Mr. Nguyen,English,2025-09-07,49
+Student_56,Ms. Carter,History,2025-09-07,87
+Student_20,Mr. Nguyen,Math,2025-09-07,50
+Student_50,Mr. Lee,English,2025-09-07,23
+Student_49,Mrs. Patel,English,2025-09-08,57
+Student_21,Mrs. Patel,English,2025-09-08,71
+Student_44,Mr. Lee,History,2025-09-08,51
+Student_16,Mrs. Patel,History,2025-09-09,58
+Student_13,Ms. Johnson,History,2025-09-09,74
+Student_14,Ms. Johnson,English,2025-09-09,64
+Student_12,Mrs. Patel,Math,2025-09-09,73
+Student_13,Ms. Carter,Computer Science,2025-09-10,50
+Student_57,Ms. Carter,Computer Science,2025-09-10,54
+Student_37,Ms. Carter,Science,2025-09-10,58
+Student_56,Mr. Nguyen,Math,2025-09-11,68
+Student_30,Mrs. Patel,English,2025-09-11,34
+Student_50,Mr. Lee,English,2025-09-11,76
+Student_19,Mr. Lee,English,2025-09-12,58
+Student_37,Mr. Lee,Science,2025-09-12,30
+Student_16,Mr. Nguyen,History,2025-09-13,32
+Student_30,Mr. Nguyen,Math,2025-09-13,86
+Student_55,Mr. Nguyen,Science,2025-09-13,78
+Student_8,Mr. Nguyen,Computer Science,2025-09-13,52
+Student_3,Ms. Carter,Math,2025-09-14,49
+Student_16,Mr. Lee,Computer Science,2025-09-14,28
+Student_10,Mr. Lee,English,2025-09-14,27
+Student_14,Ms. Johnson,English,2025-09-14,83
+Student_32,Ms. Johnson,Science,2025-09-15,79
+Student_39,Ms. Johnson,Computer Science,2025-09-15,86
+Student_29,Ms. Carter,Science,2025-09-15,28
+Student_53,Mr. Lee,English,2025-09-15,45
+Student_46,Ms. Johnson,History,2025-09-15,77
+Student_23,Mrs. Patel,Science,2025-09-15,23
+Student_28,Ms. Carter,Computer Science,2025-09-15,39
+Student_6,Mr. Lee,Science,2025-09-15,69
+Student_36,Mr. Nguyen,Math,2025-09-15,34
+Student_47,Mrs. Patel,Math,2025-09-16,44
+Student_10,Ms. Carter,Math,2025-09-16,80
+Student_12,Mrs. Patel,History,2025-09-16,29
+Student_49,Mr. Lee,Science,2025-09-17,30
+Student_22,Mr. Lee,Math,2025-09-17,81
+Student_26,Mr. Nguyen,Science,2025-09-17,37
+Student_16,Ms. Johnson,Computer Science,2025-09-17,74
+Student_51,Mr. Nguyen,Math,2025-09-17,88
+Student_15,Mr. Lee,Computer Science,2025-09-17,37
+Student_48,Mr. Nguyen,History,2025-09-17,51
+Student_41,Mrs. Patel,History,2025-09-17,21
+Student_20,Ms. Carter,Science,2025-09-17,34
+Student_49,Ms. Carter,Science,2025-09-18,90
+Student_13,Mr. Lee,History,2025-09-18,87
+Student_51,Ms. Johnson,Math,2025-09-18,38
+Student_45,Mr. Nguyen,English,2025-09-18,39
+Student_21,Mr. Lee,Math,2025-09-18,77
+Student_1,Ms. Johnson,Science,2025-09-18,25
+Student_56,Ms. Carter,History,2025-09-18,78
+Student_52,Mrs. Patel,History,2025-09-18,28
+Student_5,Ms. Johnson,Science,2025-09-18,82
+Student_22,Mrs. Patel,History,2025-09-18,59
+Student_54,Ms. Carter,English,2025-09-19,46
+Student_19,Ms. Carter,Science,2025-09-19,56
+Student_25,Mr. Nguyen,History,2025-09-20,74
+Student_47,Mrs. Patel,Computer Science,2025-09-20,72
+Student_41,Ms. Carter,Math,2025-09-20,76
+Student_51,Mr. Lee,Computer Science,2025-09-21,22
+Student_55,Mr. Nguyen,Math,2025-09-21,80
+Student_43,Mrs. Patel,Computer Science,2025-09-21,35
+Student_16,Mrs. Patel,English,2025-09-21,89
+Student_59,Ms. Carter,Computer Science,2025-09-21,82
+Student_21,Ms. Carter,Science,2025-09-22,72
+Student_43,Mr. Lee,History,2025-09-22,55
+Student_19,Ms. Johnson,Computer Science,2025-09-22,31
+Student_51,Ms. Johnson,Math,2025-09-23,88
+Student_51,Ms. Carter,English,2025-09-23,67
+Student_56,Ms. Carter,English,2025-09-23,85
+Student_12,Mr. Nguyen,Science,2025-09-23,53
+Student_58,Ms. Johnson,History,2025-09-24,48
+Student_57,Ms. Carter,Science,2025-09-24,56
+Student_41,Mrs. Patel,Science,2025-09-24,65
+Student_56,Mr. Nguyen,Computer Science,2025-09-24,31
+Student_55,Mrs. Patel,Computer Science,2025-09-25,60
+Student_18,Mr. Lee,Math,2025-09-25,24
+Student_57,Ms. Johnson,Science,2025-09-25,78
+Student_45,Mr. Lee,Computer Science,2025-09-25,49
+Student_30,Mrs. Patel,Science,2025-09-25,81
+Student_4,Mr. Lee,History,2025-09-25,22
+Student_40,Ms. Johnson,English,2025-09-26,90
+Student_35,Mrs. Patel,Math,2025-09-26,55
+Student_6,Mrs. Patel,Science,2025-09-26,51
+Student_46,Mr. Nguyen,History,2025-09-26,51
+Student_40,Ms. Carter,History,2025-09-27,44
+Student_6,Mr. Nguyen,English,2025-09-27,62
+Student_50,Mr. Nguyen,History,2025-09-28,54
+Student_24,Mr. Nguyen,Science,2025-09-28,42
+Student_32,Mr. Lee,English,2025-09-28,82
+Student_38,Ms. Johnson,Science,2025-09-28,36
+Student_7,Mr. Nguyen,English,2025-09-28,72
+Student_4,Mr. Nguyen,History,2025-09-28,33
+Student_44,Mr. Lee,English,2025-09-28,28
+Student_3,Ms. Carter,Computer Science,2025-09-28,64
+Student_11,Ms. Carter,History,2025-09-29,80
+Student_45,Mr. Nguyen,History,2025-09-29,22
+Student_28,Ms. Carter,Math,2025-09-29,41
+Student_53,Ms. Johnson,Math,2025-09-30,31
+Student_25,Mrs. Patel,Science,2025-09-30,61
+Student_35,Mr. Lee,Science,2025-09-30,68
+Student_36,Mr. Lee,Math,2025-09-30,37
+Student_27,Mrs. Patel,Computer Science,2025-09-30,73
+Student_15,Mr. Lee,Computer Science,2025-09-30,26
+Student_47,Ms. Johnson,English,2025-09-30,23
+Student_34,Ms. Carter,Math,2025-10-01,77
+Student_20,Ms. Johnson,English,2025-10-01,90
+Student_11,Mr. Nguyen,History,2025-10-01,47
+Student_27,Mr. Lee,Math,2025-10-01,53
+Student_4,Ms. Carter,Computer Science,2025-10-01,84
+Student_55,Ms. Johnson,History,2025-10-01,20
+Student_37,Mrs. Patel,History,2025-10-01,76
+Student_30,Ms. Carter,Science,2025-10-02,57
+Student_6,Mr. Lee,History,2025-10-02,50
+Student_54,Mrs. Patel,Computer Science,2025-10-02,50
+Student_14,Mrs. Patel,Computer Science,2025-10-02,52
+Student_8,Ms. Carter,History,2025-10-02,29
+Student_32,Ms. Carter,Science,2025-10-03,62
+Student_57,Mrs. Patel,Computer Science,2025-10-03,54
+Student_25,Mr. Lee,Computer Science,2025-10-03,37
+Student_45,Mr. Nguyen,English,2025-10-03,89
+Student_28,Mrs. Patel,Math,2025-10-03,63
+Student_25,Ms. Johnson,History,2025-10-04,52
+Student_28,Mr. Lee,Science,2025-10-04,72
+Student_27,Ms. Johnson,Computer Science,2025-10-04,60
+Student_3,Mr. Nguyen,Math,2025-10-04,88
+Student_36,Mr. Lee,English,2025-10-04,74
+Student_10,Mrs. Patel,Science,2025-10-05,87
+Student_56,Mr. Lee,History,2025-10-05,81
+Student_52,Ms. Carter,History,2025-10-05,35
+Student_33,Ms. Johnson,Math,2025-10-06,45
+Student_52,Mr. Nguyen,Computer Science,2025-10-06,60
+Student_6,Mr. Lee,Math,2025-10-06,73
+Student_22,Ms. Carter,Computer Science,2025-10-06,49
+Student_11,Mr. Lee,Science,2025-10-06,29
+Student_31,Mr. Lee,History,2025-10-06,38
+Student_21,Mr. Nguyen,English,2025-10-06,36
+Student_46,Mr. Lee,English,2025-10-06,21
+Student_60,Mr. Nguyen,Math,2025-10-06,57
+Student_18,Ms. Johnson,Computer Science,2025-10-06,61
+Student_7,Mr. Lee,History,2025-10-07,65
+Student_9,Mr. Nguyen,Math,2025-10-07,47
+Student_54,Ms. Johnson,English,2025-10-07,44
+Student_26,Mr. Lee,Math,2025-10-08,51
+Student_8,Mrs. Patel,Science,2025-10-08,53
+Student_19,Mrs. Patel,Computer Science,2025-10-08,82
+Student_50,Mrs. Patel,Computer Science,2025-10-08,33
+Student_54,Ms. Johnson,Science,2025-10-08,47
+Student_24,Ms. Johnson,History,2025-10-08,39
+Student_44,Ms. Johnson,Math,2025-10-08,74
+Student_7,Mrs. Patel,English,2025-10-09,53
+Student_47,Mrs. Patel,History,2025-10-09,85
+Student_56,Mrs. Patel,Computer Science,2025-10-09,45
+Student_57,Mr. Nguyen,English,2025-10-09,52
+Student_14,Mrs. Patel,Math,2025-10-09,41
+Student_32,Mr. Nguyen,Math,2025-10-09,25
+Student_6,Mr. Lee,Math,2025-10-09,28
+Student_16,Mr. Nguyen,Computer Science,2025-10-10,68
+Student_47,Ms. Johnson,English,2025-10-10,88
+Student_38,Ms. Johnson,Math,2025-10-10,30
+Student_24,Ms. Johnson,History,2025-10-11,76
+Student_12,Ms. Johnson,History,2025-10-11,82
+Student_58,Ms. Carter,Math,2025-10-11,74
+Student_56,Ms. Carter,Science,2025-10-11,40
+Student_22,Ms. Johnson,History,2025-10-12,30
+Student_41,Mr. Nguyen,English,2025-10-12,72
+Student_4,Mrs. Patel,Science,2025-10-12,28
+Student_59,Ms. Johnson,Science,2025-10-12,28
+Student_28,Ms. Johnson,Computer Science,2025-10-12,61
+Student_60,Mrs. Patel,Science,2025-10-13,60
+Student_56,Ms. Johnson,Math,2025-10-13,89
+Student_33,Mr. Nguyen,Science,2025-10-13,30
+Student_45,Mr. Nguyen,English,2025-10-13,71
+Student_2,Mr. Nguyen,English,2025-10-13,71
+Student_60,Mrs. Patel,Computer Science,2025-10-13,45
+Student_46,Ms. Carter,Math,2025-10-13,49
+Student_46,Mr. Nguyen,History,2025-10-13,39
+Student_40,Ms. Johnson,Math,2025-10-13,90
+Student_19,Mr. Nguyen,Computer Science,2025-10-13,82
+Student_50,Mr. Lee,Science,2025-10-13,80
+Student_58,Mrs. Patel,Science,2025-10-14,51
+Student_58,Mr. Nguyen,English,2025-10-14,89
+Student_13,Mr. Nguyen,History,2025-10-14,42
+Student_2,Ms. Carter,Science,2025-10-14,22
+Student_30,Mr. Nguyen,History,2025-10-14,47
+Student_36,Ms. Carter,Math,2025-10-14,88
+Student_55,Mrs. Patel,Math,2025-10-14,67
+Student_18,Ms. Johnson,Science,2025-10-14,61
+Student_45,Mr. Nguyen,Math,2025-10-14,49
+Student_60,Mrs. Patel,Computer Science,2025-10-14,68
+Student_8,Mr. Nguyen,English,2025-10-14,53
+Student_40,Mr. Nguyen,Computer Science,2025-10-14,50
+Student_29,Ms. Carter,History,2025-10-15,58
+Student_22,Mrs. Patel,Computer Science,2025-10-15,55
+Student_38,Mrs. Patel,History,2025-10-15,52
+Student_4,Ms. Johnson,English,2025-10-15,36
+Student_19,Ms. Johnson,Science,2025-10-16,63
+Student_14,Ms. Johnson,Science,2025-10-16,59
+Student_18,Mr. Nguyen,Math,2025-10-16,56
+Student_11,Mr. Nguyen,Computer Science,2025-10-16,58
+Student_14,Ms. Johnson,Science,2025-10-17,80
+Student_3,Ms. Johnson,English,2025-10-17,36
+Student_59,Mr. Nguyen,Math,2025-10-17,38
+Student_17,Mr. Lee,Math,2025-10-17,44
+Student_6,Mrs. Patel,English,2025-10-18,73
+Student_16,Mr. Lee,Science,2025-10-18,33
+Student_38,Ms. Johnson,Math,2025-10-18,60
+Student_41,Ms. Carter,Math,2025-10-18,55
+Student_34,Mrs. Patel,History,2025-10-18,90
+Student_11,Mrs. Patel,Computer Science,2025-10-18,56
+Student_16,Mrs. Patel,Science,2025-10-18,31
+Student_23,Mrs. Patel,Computer Science,2025-10-19,89
+Student_38,Mrs. Patel,Math,2025-10-19,40
+Student_30,Ms. Carter,Science,2025-10-19,48
+Student_6,Mr. Nguyen,Math,2025-10-19,88
+Student_22,Mr. Nguyen,English,2025-10-19,73
+Student_56,Ms. Carter,English,2025-10-20,73
+Student_43,Ms. Carter,English,2025-10-20,72
+Student_10,Ms. Carter,Math,2025-10-20,74
+Student_53,Mr. Lee,English,2025-10-20,38
+Student_12,Mr. Lee,Science,2025-10-21,89
+Student_9,Ms. Johnson,English,2025-10-22,42
+Student_7,Mrs. Patel,Computer Science,2025-10-22,35
+Student_52,Mrs. Patel,English,2025-10-22,34
+Student_8,Ms. Carter,Computer Science,2025-10-22,50
+Student_48,Mrs. Patel,History,2025-10-22,51
+Student_50,Mr. Lee,Computer Science,2025-10-22,65
+Student_54,Ms. Carter,Science,2025-10-23,24
+Student_49,Mr. Nguyen,Computer Science,2025-10-23,84
+Student_22,Ms. Johnson,English,2025-10-23,20
+Student_39,Mrs. Patel,Math,2025-10-24,44
+Student_33,Mrs. Patel,History,2025-10-24,81
+Student_59,Ms. Johnson,History,2025-10-24,56
+Student_57,Mr. Nguyen,Math,2025-10-24,82
+Student_23,Mrs. Patel,History,2025-10-25,73
+Student_22,Ms. Carter,History,2025-10-25,61
+Student_50,Mrs. Patel,Math,2025-10-25,49
+Student_18,Ms. Carter,Computer Science,2025-10-26,26
+Student_15,Ms. Carter,Math,2025-10-26,62
+Student_41,Mr. Nguyen,Math,2025-10-26,21
+Student_25,Mr. Nguyen,English,2025-10-26,44
+Student_40,Mr. Lee,Science,2025-10-26,40
+Student_31,Ms. Carter,Computer Science,2025-10-27,61
+Student_2,Ms. Carter,English,2025-10-27,59
+Student_9,Mrs. Patel,History,2025-10-27,82
+Student_16,Ms. Carter,Science,2025-10-27,30
+Student_28,Ms. Johnson,History,2025-10-28,40
+Student_32,Mr. Nguyen,Math,2025-10-28,30
+Student_35,Ms. Johnson,Computer Science,2025-10-28,48
+Student_3,Mrs. Patel,English,2025-10-28,25
+Student_26,Mrs. Patel,History,2025-10-28,86
+Student_33,Mr. Lee,Computer Science,2025-10-29,33
+Student_47,Mr. Lee,History,2025-10-29,36
+Student_40,Ms. Johnson,Math,2025-10-29,70
+Student_54,Mr. Lee,English,2025-10-29,81
+Student_31,Ms. Johnson,History,2025-10-29,55
+Student_1,Mr. Nguyen,English,2025-10-30,78
+Student_54,Ms. Carter,Math,2025-10-30,50
+Student_29,Ms. Johnson,Science,2025-10-31,25
+Student_26,Ms. Johnson,English,2025-10-31,23
+Student_11,Ms. Carter,History,2025-10-31,64
+Student_50,Ms. Carter,Math,2025-10-31,51
+Student_8,Mr. Lee,Math,2025-10-31,24
+Student_14,Mr. Nguyen,History,2025-10-31,50
+Student_36,Ms. Carter,Computer Science,2025-10-31,44
+Student_21,Ms. Carter,Computer Science,2025-10-31,43
