@@ -1,5 +1,9 @@
 # 🎓 Tutoring Sessions Dashboard (Power BI)
 
+<p align="center">
+  <img src="dashboard.gif" alt="Tutor Tracker Power BI Dashboard Demo" width="850">
+</p>
+
 This project showcases a clean, interview-ready **Power BI dashboard** built from a synthetic dataset of tutoring sessions (Sept–Oct 2025). It’s designed to demonstrate core dashboarding skills: data modeling, KPI design, interactive filtering, and clear visual storytelling.
 
 ---
