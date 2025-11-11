@@ -58,34 +58,13 @@ These elements demonstrate:
 
 ### Option 1 – Open the `.pbix` file
 1. Install **Power BI Desktop** (free from Microsoft Store).
-2. Download `Tutoring_Sessions_Dashboard.pbix` from this repo.
+2. Download `Tutor Tracker PowerBI.pbix` from this repo.
 3. Open it in Power BI Desktop to explore all visuals and slicers interactively.
 
 ### Option 2 – View online (if you have Power BI access)
 If you have access to Power BI Service:
 
 - Open the secure report link (for org/tenant users only):  
-  `<<ADD_YOUR_POWER_BI_REPORT_LINK_HERE>>`
+[![Open in Power BI](https://img.shields.io/badge/Open%20in%20Power%20BI-Online-yellow?style=for-the-badge&logo=powerbi&logoColor=black)](https://m365.cloud.microsoft/apps/?auth=2&origindomain=Office&client-request-id=b0e7b937-cf18-487e-911e-3599c8ab5655)
 
 > Note: Public “Publish to web” is disabled for this tenant, so a valid Power BI account is required.
-
----
-
-## 🧪 Interview Talking Points
-
-When discussing this project, you can highlight:
-
-- Built an end-to-end **analytics view** for a tutoring program.
-- Designed KPIs (Total Sessions, Unique Students, Avg Duration) for quick decision-making.
-- Used slicers to let stakeholders explore performance **by tutor, subject, and date**.
-- Focused on clarity, color consistency, and layout to create a **clean, executive-friendly dashboard**.
-
----
-
-## 📁 Files in this Repository
-
-- `README.md` – Project overview and instructions
-- `tutoring_login_data_300.csv` – Source dataset (synthetic)
-- `Tutoring_Sessions_Dashboard.pbix` – Power BI report file
-- `assets/dashboard-screenshot.png` – (Optional) Static preview of the report
-
